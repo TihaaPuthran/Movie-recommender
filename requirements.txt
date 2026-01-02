@@ -1,5 +1,7 @@
-### dependency
-streamlit
+flask
+pandas
+numpy
+scikit-learn
+requests
+gunicorn
 
-### local packages -
--e . 
